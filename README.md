@@ -30,6 +30,7 @@ Updated : 2018/04/16
 - release <kbd>volume down</kbd> button after enter bootloader menu
 
 ### 3.Unlock bootloader
+- Connect nexus to PC via USB cable
 - Ubuntu   
 <code>$ fastboot oem unlock</code>  
 - Windows   
@@ -87,6 +88,7 @@ deb-src http://us.archive.ubuntu.com/ubuntu/ xyz-updates universe
 - release <kbd>volume down</kbd> button after enter bootloader menu
 
 ### 3.Unlock bootloader
+- Connect nexus to PC via USB cable
 - run  
 <code>$ fastboot oem unlock</code>
 
