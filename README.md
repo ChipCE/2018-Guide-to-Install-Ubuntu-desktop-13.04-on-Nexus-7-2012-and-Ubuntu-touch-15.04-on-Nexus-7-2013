@@ -12,7 +12,7 @@ Updated : 2018/04/16
 <code>$ sudo apt update</code>   
 <code>$ sudo apt install android-tools-adb android-tools-fastboot</code>  
 - raring-preinstalled-desktop-armhf+nexus7.bootimg and raring-preinstalled-desktop-armhf+nexus7.img.gz from http://old-releases.ubuntu.com/releases/13.04/
-- extract the "raring-preinstalled-desktop-armhf+nexus7.img.gz" .Rename file "raring-preinstalled-desktop-armhf+nexus7.raw" to ".raring-preinstalled-desktop-armhf+nexus7img".
+- extract the "raring-preinstalled-desktop-armhf+nexus7.img.gz" .Rename file "raring-preinstalled-desktop-armhf+nexus7.raw" to "raring-preinstalled-desktop-armhf+nexus7img".
 
 #### or
 				
@@ -21,7 +21,7 @@ Updated : 2018/04/16
 - Nexus 7 2012 ver 1st gen nakasi(wifi - grouper)
 - Fastboot , ADB driver ,Android SDK
 - raring-preinstalled-desktop-armhf+nexus7.bootimg and raring-preinstalled-desktop-armhf+nexus7.img.gz from http://old-releases.ubuntu.com/releases/13.04/
-- extract the "raring-preinstalled-desktop-armhf+nexus7.img.gz" .Rename file "raring-preinstalled-desktop-armhf+nexus7.raw" to ".raring-preinstalled-desktop-armhf+nexus7img".
+- extract the "raring-preinstalled-desktop-armhf+nexus7.img.gz" .Rename file "raring-preinstalled-desktop-armhf+nexus7.raw" to "raring-preinstalled-desktop-armhf+nexus7img".
 
 
 
