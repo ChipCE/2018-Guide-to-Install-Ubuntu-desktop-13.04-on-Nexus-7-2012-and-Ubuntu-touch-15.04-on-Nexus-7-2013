@@ -1,7 +1,8 @@
-# 2018-Guide-to-Install-Ubuntu-desktop-13.04-on-Nexus-7-2012-and-Ubuntu-touch-15.04-on-Nexus-7-2013
-2018 Guide to Install Ubuntu desktop 13.04 on Nexus 7 2012 and Ubuntu touch 15.04 on Nexus 7 2013
+# Guide to Install Ubuntu on nexus 7 2012/2013
+Guide to Install Ubuntu desktop 13.04 on Nexus 7 2012(grouper) and Ubuntu touch 15.04 on Nexus 7 2013(flo,deb)  
+Updated : 2018/04/16  
 
-## Install Ubuntu desktop 13.04 on Nexus 7 2012
+# Install Ubuntu desktop 13.04 on Nexus 7 2012
 
 ### 1.Tools and system requirements</h3>
 - An Ubuntu machine
@@ -55,8 +56,10 @@
 - now you can install new software with "sudo apt-get install <package_name>"
 *Warning : do not <code>run apt-get upgrade</code> or <code>apt-get dist-upgrade</code> .Upgrade will brake wireless and graphic driver.  
 *Any sources newer than 14.04 will not work
-
-## Install Ubuntu touch 15.04 Nexus 7 2013
+  
+  
+  
+# Install Ubuntu touch 15.04 Nexus 7 2013
 
 ### 1.Tools and system requirements
 - An Ubuntu machine
