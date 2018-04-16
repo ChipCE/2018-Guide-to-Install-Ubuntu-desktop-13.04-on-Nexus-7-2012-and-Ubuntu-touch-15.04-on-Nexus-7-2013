@@ -8,7 +8,7 @@
 - Micro usb cable
 - Nexus 7 2012 (wifi - grouper)
 - Fastboot and ADB   
-    $ sudo apt update   
+<code>    $ sudo apt update</code>   
     $ sudo apt install android-tools-adb android-tools-fastboot  
 - raring-preinstalled-desktop-armhf+nexus7.bootimg and raring-preinstalled-desktop-armhf+nexus7.img.gz from http://old-releases.ubuntu.com/releases/13.04/
 
