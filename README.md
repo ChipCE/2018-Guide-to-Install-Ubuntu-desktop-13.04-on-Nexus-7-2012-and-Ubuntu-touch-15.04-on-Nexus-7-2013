@@ -62,12 +62,12 @@
 - An Ubuntu machine
 - Micro usb cable
 - Nexus 7 2013(wifi-flo or lte-deb)
-- Fastboot and ADB
+- Fastboot and ADB  
 <code>sudo apt update</code>  
 <code>sudo apt install android-tools-adb android-tools-fastboot</code>  
 - ubuntu-device-flash and phablet-tools packages  
-$ sudo apt-get update  
-$ sudo apt-get install ubuntu-device-flash phablet-tools  
+<code>$ sudo apt-get update</code>  
+<code>$ sudo apt-get install ubuntu-device-flash phablet-tools</code>  
 *To install ubuntu-device-flash,you need to enable universe archive.
 open /etc/apt/sources.list and delete the '#' at the beginning of the line  
 deb http://us.archive.ubuntu.com/ubuntu/ xyz universe  
@@ -85,7 +85,7 @@ deb-src http://us.archive.ubuntu.com/ubuntu/ xyz-updates universe
 
 ### 3.Unlock bootloader
 - run  
-$ fastboot oem unlock</code>
+<code>$ fastboot oem unlock</code>
 
 ### 4.Flash image file
 - for wifi(flo) version  
