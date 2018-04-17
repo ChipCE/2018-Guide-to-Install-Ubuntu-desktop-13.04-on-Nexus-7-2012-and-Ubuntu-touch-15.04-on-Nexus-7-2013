@@ -56,7 +56,7 @@ Updated : 2018/04/16
 - save the file
 - run  
 <code>$ sudo apt-get update</code>
-- now you can install new software with "sudo apt-get install <package_name>"
+- now you can install new software with "sudo apt-get install <package_name>"  
 *Warning : do not <code>run apt-get upgrade</code> or <code>apt-get dist-upgrade</code> .Upgrade will brake wireless and graphic driver.  
 *Any sources newer than 14.04 will not work
   
