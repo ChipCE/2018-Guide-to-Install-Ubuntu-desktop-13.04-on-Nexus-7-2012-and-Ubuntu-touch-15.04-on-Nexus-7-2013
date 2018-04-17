@@ -26,7 +26,7 @@ Updated : 2018/04/16
 
 
 ### 2.Boot the device into bootloader
-- Completely turn of the device
+- Completely turn off the device
 - Hold <kbd>volume down</kbd> button and press <kbd>power</kbd> button until screen light up
 - release <kbd>power</kbd>  button
 - release <kbd>volume down</kbd> button after enter bootloader menu
@@ -84,7 +84,7 @@ deb-src http://us.archive.ubuntu.com/ubuntu/ xyz-updates universe
 *if phablet-tools cannot be found you can use the deb file in this repo.
 
 ### 2.Boot the device into bootloader
-- Completely turn of the device
+- Completely turn off the device
 - Hold <kbd>volume down</kbd> button and press <kbd>power</kbd> button until screen light up
 - release <kbd>power</kbd>  button
 - release <kbd>volume down</kbd> button after enter bootloader menu
